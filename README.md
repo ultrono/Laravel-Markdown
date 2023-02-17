@@ -1,4 +1,4 @@
-### This is a temporary fork of https://github.com/GrahamCampbell/Laravel-Markdown, that adds Laravel 10 support. THis repository will be removed when https://github.com/GrahamCampbell/Laravel-Markdown/pull/175 is merged.
+### This repository is a temporary fork of https://github.com/GrahamCampbell/Laravel-Markdown, that adds Laravel 10 support.  It will be removed when https://github.com/GrahamCampbell/Laravel-Markdown/pull/175 is merged.
 
 Laravel Markdown
 ================
